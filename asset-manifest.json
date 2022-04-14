@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Byeongin-Jeong.github.io/static/css/main.00af48a1.css",
-    "main.js": "/Byeongin-Jeong.github.io/static/js/main.4ce04dc5.js",
-    "static/media/img-2.jpg": "/Byeongin-Jeong.github.io/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-1.jpg": "/Byeongin-Jeong.github.io/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-8.jpg": "/Byeongin-Jeong.github.io/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "/Byeongin-Jeong.github.io/index.html",
-    "main.00af48a1.css.map": "/Byeongin-Jeong.github.io/static/css/main.00af48a1.css.map",
-    "main.4ce04dc5.js.map": "/Byeongin-Jeong.github.io/static/js/main.4ce04dc5.js.map"
+    "main.css": "/static/css/main.9f19afc0.css",
+    "main.js": "/static/js/main.4ce04dc5.js",
+    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/index.html",
+    "main.9f19afc0.css.map": "/static/css/main.9f19afc0.css.map",
+    "main.4ce04dc5.js.map": "/static/js/main.4ce04dc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.00af48a1.css",
+    "static/css/main.9f19afc0.css",
     "static/js/main.4ce04dc5.js"
   ]
 }
