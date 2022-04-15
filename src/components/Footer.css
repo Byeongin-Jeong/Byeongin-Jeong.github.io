@@ -1,6 +1,6 @@
 .footer-container {
   background-color: #242424;
-  padding: 4rem 0 2rem 0;
+  padding: 0 0 2rem 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -96,7 +96,11 @@
 /* Social Icons */
 .social-icon-link {
   color: #fff;
-  font-size: 24px;
+  font-size: 35px;
+}
+
+.social-icon-link:hover {
+  mix-blend-mode: difference;
 }
 
 .social-media {

@@ -1,0 +1,84 @@
+.aboutme-container {
+    background: rgb(221, 209, 96);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+}
+
+.aboutme-container > h1 {
+    color: rgb(61, 58, 58);
+    font-size: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.aboutme-info {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+.aboutme-info-wrapper {
+    display: flex;
+}
+
+.aboutme-info-items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 16px;
+    text-align: left;
+    width: 160px;
+    box-sizing: border-box;
+}
+
+.aboutme-info-items h2 {
+    margin-bottom: 16px;
+}
+
+.aboutme-info-items > h2 {
+    color:  rgb(20, 20, 20);
+    font-size: 25px;
+}
+
+.aboutme-info-items > h3 {
+    color: rgb(61, 58, 58);
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.aboutme-subscription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+
+    margin-bottom: 24px;
+    padding: 24px;
+    color:  rgb(61, 58, 58);
+}
+
+.aboutme-subscription > p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+}
+
+.aboutme-subscription-text {
+    margin-bottom: 24px;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 820px) {
+    .aboutme-info {
+        padding-top: 2rem;
+    }
+    .aboutme-info-wrapper {
+        flex-direction: column;
+    }
+}
