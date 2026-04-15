@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Languages",
+    "items": ["TypeScript", "JavaScript", "Python"]
+  },
+  {
+    "category": "Frameworks",
+    "items": ["React", "Node.js"]
+  },
+  {
+    "category": "Infrastructure",
+    "items": ["Docker", "AWS"]
+  },
+  {
+    "category": "Tools",
+    "items": ["Git", "VS Code", "Figma"]
+  }
+]

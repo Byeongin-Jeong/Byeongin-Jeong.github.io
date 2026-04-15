@@ -1,0 +1,12 @@
+{
+  "name": "정병인",
+  "title": "Software Engineer",
+  "tagline": "문제를 해결하는 것을 좋아하는 개발자입니다.",
+  "intro": "안녕하세요. 꾸준히 배우고 성장하는 것을 좋아하는 개발자 정병인입니다.\n새로운 기술을 익히고 실무에 적용하며, 사용자에게 가치 있는 제품을 만드는 일에 관심이 많습니다.",
+  "location": "Seoul, South Korea",
+  "email": "jbi0214@gmail.com",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/Byeongin-Jeong", "icon": "fa-brands fa-github" },
+    { "label": "Email", "url": "mailto:jbi0214@gmail.com", "icon": "fa-solid fa-envelope" }
+  ]
+}

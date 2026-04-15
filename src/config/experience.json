@@ -1,0 +1,15 @@
+[
+  {
+    "company": "회사명",
+    "role": "직무 / 포지션",
+    "period": "YYYY.MM - 현재",
+    "location": "서울",
+    "description": "회사 및 본인 역할에 대한 간단한 설명을 작성합니다.",
+    "highlights": [
+      "주요 성과 또는 담당 업무 1",
+      "주요 성과 또는 담당 업무 2",
+      "주요 성과 또는 담당 업무 3"
+    ],
+    "stack": ["TypeScript", "React", "Node.js"]
+  }
+]

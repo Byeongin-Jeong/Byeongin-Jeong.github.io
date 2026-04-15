@@ -1,0 +1,15 @@
+[
+  {
+    "name": "프로젝트 이름",
+    "period": "YYYY.MM - YYYY.MM",
+    "description": "프로젝트에 대한 간단한 한 줄 설명입니다.",
+    "highlights": [
+      "본인이 기여한 부분 또는 주요 성과 1",
+      "본인이 기여한 부분 또는 주요 성과 2"
+    ],
+    "stack": ["React", "TypeScript"],
+    "links": [
+      { "label": "GitHub", "url": "https://github.com/Byeongin-Jeong" }
+    ]
+  }
+]
